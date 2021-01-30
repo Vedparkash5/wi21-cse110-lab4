@@ -35,3 +35,5 @@
   * F. ans = true, Boolean(2) is true
 16. == compares after conversion, === doesn't convert
 17. 'How are you' is printed because 2 doesn't equal to 1 so the next statement goes in and 2 is positive
+19. The result will be [6 , 8, 10] because the function takes in 1, it then goes into callback which returns 3, and 3 times 2 is 6, 2 turns into 4, which doubled is 8, and 3+2 is 5*2 is 10.
+21. its printed in the order of 1,4,3,2
