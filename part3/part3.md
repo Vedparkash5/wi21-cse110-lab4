@@ -2,7 +2,8 @@
 1. 
 ![](https://github.com/Vedparkash5/wi21-cse110-lab4/blob/main/part3/breakpoints.png)
 2. 
-![](https://github.com/Vedparkash5/wi21-cse110-lab4/blob/main/part3/watch.png)
+![](https://github.com/Vedparkash5/wi21-cse110-lab4/blob/main/part3/watch.png)\
+
 3. The bug was that it was string concatination of the two inputs instead of number arithmatic.
 4. I fixed it by adding + infront of the document in the let num1 = +document.getElementById("num1").value; in both lines of code.
 5. 
